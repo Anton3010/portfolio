@@ -12,7 +12,7 @@ body {
 
 .nav-bar li {
 display: inline;
-margin: 40px;
+margin: 20px;
 }
 
 .nav-bar a:hover {
@@ -20,14 +20,56 @@ margin: 40px;
   text-decoration: underline;
 }
 
-a {
+.nav-bar a {
   color: #fff;
 }
 
-.content {
-  text-align: center;
+
+
+.jumbotron {
+  padding-top: 100px;
+ text-align: center;
 }
+
 .welcome {
+  text-align: center;
   color: orange;
   padding-top: 100px;
+}
+
+.welcome img {
+  width: 10%;
+  border-radius: 400px;
+}
+
+
+.row img {
+  width: 100%;
+}
+
+.col-md-6 {
+text-align: center;
+
+}
+
+.panel panel-info {
+
+}
+
+.panel-title {
+  color: orange;
+  font-size: 20px;
+}
+
+.footer {
+  color: orange;
+  text-align: center;
+  background-color: grey;
+  height: 50px;
+  width: 100%;
+
+}
+
+.footer h3 {
+  padding: 10px 0;
 }
