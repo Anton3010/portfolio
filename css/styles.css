@@ -1,0 +1,33 @@
+body {
+  background-color: #EDEDED;
+}
+.nav-bar {
+  padding: 30px;
+  background-color: grey;
+}
+
+.nav-bar ul {
+  list-style-type: none;
+}
+
+.nav-bar li {
+display: inline;
+margin: 40px;
+}
+
+.nav-bar a:hover {
+  color: orange;
+  text-decoration: underline;
+}
+
+a {
+  color: #fff;
+}
+
+.content {
+  text-align: center;
+}
+.welcome {
+  color: orange;
+  padding-top: 100px;
+}
