@@ -2,16 +2,16 @@
 
 #### _Portfolio project at Epicodus, 10.18.2019_
 
-#### By _**Anto Sharykin**_
+#### By _**Anton Sharykin**_
 
 ## Description
 
-_This web page is about my projects._
+_This web page is about me and my projects. This portfolio can be viewed at https://anton3010.github.io/portfolio/_
 
 ## Setup/Installation Requirements
 
 * _Clone this repository_
-* _Open index.html file in any brouser_
+* _Open index.html file in any browser_
 
 
 
